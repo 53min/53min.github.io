@@ -7,7 +7,7 @@ math: true
 tag: [자연어처리, 언어 모델, NLP, Language Model, 통계적 언어 모델, SLM, Statistical Language Model, N-gram, 펄플렉서티, Perplexity]
 ---
 
-> 이 포스트는 [**딥 러닝을 이용한 자연어 처리 입문**](https://wikidocs.net/book/2155)을 읽고 공부겸 정리한 글입니다. 언어는 python입니다.
+> 이 포스트는 [**딥 러닝을 이용한 자연어 처리 입문**](https://wikidocs.net/book/2155)을 읽고 공부 겸 정리한 글입니다. 언어는 python입니다.
 
 ## 언어 모델
 
@@ -46,10 +46,10 @@ N-gram 언어 모델은 카운트 기반 접근을 사용하는 SLM의 한 종�
 N-gram에서는 연속적인 N개의 단어를 하나의 토큰으로 인식한다. n이 1일 때는 unigram, 2일 때는 bigram, 3일 때는 trigram, 4이상부터는 그대로 n-gram이라고 부르기도한다.
 
 예를 들어, I love you so much가 있을 때, 각 n에 대해서 n-gram을 구해보겠다.
-unigram: I, love, you, so, much
-bigram: I love, love you, you so, so much
-trigram: I love you, love you so, you so much
-4-gram: I love you so, love you so much
+- unigram: I, love, you, so, much
+- bigram: I love, love you, you so, so much
+- trigram: I love you, love you so, you so much
+- 4-gram: I love you so, love you so much
 
 > 만약 bigram에서 I love you so 다음에 나올 단어를 예측하고 싶다면, P(w \| you so) = count(you so w) / count(you so) 이다. 그리고 코퍼스 내에서 you so가 100번 등장하고 you so bad가 50번, you so much가 20번 등장했다고 하자. 그러면 you so 다음에 bad이 등장할 확률은 0.5이고, much가 등장할 확률은 0.2라서 우리는 확률적으로 bad이 더 적합하다고 판단한다.
 
