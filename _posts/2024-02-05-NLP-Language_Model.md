@@ -1,10 +1,11 @@
 ---
 title: "[자연어 처리] 언어 모델"
-author: nimgnas
+author: <author_id>
 date: 2024-02-05 18:00:00 +09:00
 categories: [NLP, Language Model]
 math: true
 tag: [자연어처리, 언어 모델, NLP, Language Model, 통계적 언어 모델, SLM, Statistical Language Model, N-gram, 펄플렉서티, Perplexity]
+toc: true
 ---
 
 > 이 포스트는 [**딥 러닝을 이용한 자연어 처리 입문**](https://wikidocs.net/book/2155)을 읽고 공부 겸 정리한 글입니다. 언어는 python입니다.

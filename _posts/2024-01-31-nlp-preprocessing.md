@@ -1,9 +1,10 @@
 ---
 title: "[자연어 처리] 텍스트 전처리"
-author: nimgnas
+author: <author_id>
 date: 2024-01-31 18:00:00 +09:00
 categories: [NLP, Preprocessing]
 tag: [자연어처리, 전처리, NLP, Preprocessing, 토큰화, 정제, 정규화, 어간 추출, 표제어 추출, 정규 표현식, 정수 인코딩, 패딩, 원-핫 인코딩, 한국어 전처리]
+toc: true
 ---
 
 > 이 포스트는 [**딥 러닝을 이용한 자연어 처리 입문**](https://wikidocs.net/book/2155)을 읽고 공부 겸 정리한 글입니다. 언어는 python입니다.
