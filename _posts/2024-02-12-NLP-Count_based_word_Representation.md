@@ -8,7 +8,7 @@ tag: [자연어처리, 카운트 기반 단어 표현, NLP, Count based word rep
 toc: true
 ---
 
-> 이 포스트는 [**딥 러닝을 이용한 자연어 처리 입문**](https://wikidocs.net/book/2155)을 읽고 공부 겸 정리한 글입니다. 언어는 python입니다.
+> 이 포스트는 [**딥 러닝을 이용한 자연어 처리 입문**](https://wikidocs.net/book/2155)을 읽고 공부 겸 정리한 글입니다.
 
 ## 단어 표현 방법
 
