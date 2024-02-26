@@ -4,7 +4,7 @@ author: <author_id>
 date: 2024-02-25 18:00:00 +09:00
 categories: [NLP, Machine Learning]
 math: true
-tag: [자연어처리, 머신 러닝, NLP, Machine Learning, Linear Regression, Logistic Regression, Softmax Regression, 선형 회귀, 로지스틱, 소프트맥스]
+tag: [자연어처리, 머신 러닝, NLP, Machine Learning, 가설, 가중치, 편향, 손실 함수, 비용 함수, 목적함수, 옵티마이저, 최적화 알고리즘]
 toc: true
 ---
 
