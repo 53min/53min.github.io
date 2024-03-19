@@ -1,8 +1,8 @@
 ---
-title: "[자연어 처리] 머신 러닝 기법"
+title: "[인공지능] 머신 러닝 기법"
 author: <author_id>
 date: 2024-02-26 18:00:00 +09:00
-categories: [NLP, Machine Learning]
+categories: [AI, Machine Learning]
 math: true
 tag: [자연어처리, 머신 러닝, NLP, Machine Learning, 선형회귀, 로지스틱회귀, 소프트맥스 회귀, 평균 제곱 오차, 경사 하강법, 크로스 엔트로피]
 toc: true
@@ -10,7 +10,7 @@ toc: true
 
 > 이 포스트는 [**딥 러닝을 이용한 자연어 처리 입문**](https://wikidocs.net/book/2155)을 읽고 공부 겸 정리한 글입니다.
 
-[**머신러닝 - 1**](https://53min.github.io/posts/NLP-Machine_Learning1/)과 [**머신러닝 - 2**](https://53min.github.io/posts/NLP-Machine_Learning2/)를 읽고 오시면 더욱 도움이 됩니다.
+[**머신러닝**](https://53min.github.io/posts/AI-Machine_Learning/)을 읽고 오시면 더욱 도움이 됩니다.
 
 이 포스트는 이전 머신러닝에 대해 다루었던 포스트에서 사용된 개념을 이용하여 기본적인 기법들을 정의해보려 한다.
 
